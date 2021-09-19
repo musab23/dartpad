@@ -1,0 +1,14 @@
+void main() {
+
+var computer = 50;
+  var sindhi =43;
+  var english = 70;
+    var math = 80;
+  var overall_marks = 400;
+  var obtained_marks = computer+sindhi+english+math
+    var percentage = (obtained_marks /overall_marks)*100;
+  
+  print("Rizwan got ${obtained_marks}) from ${overall_marks}
+  
+  
+}
